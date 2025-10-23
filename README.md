@@ -37,7 +37,7 @@ The dashboard provides quick insights into:
 Dashboard Preview
 Below is a preview of the Excel dashboard:
 
-![Dashboard Screenshot](pictures/Dashboard.png)
+![Dashboard Screenshot](pictures/Dashboard)
 
 
 
