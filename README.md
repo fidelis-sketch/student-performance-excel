@@ -37,7 +37,8 @@ The dashboard provides quick insights into:
 Dashboard Preview
 Below is a preview of the Excel dashboard:
 
-![Dashboard Screenshot](pictures/Dashboard_Overview.png)
+![Dashboard Screenshot](picture/Dashboard.png)
+
 
 > *(Open the Excel file in this repository to explore the full interactive dashboard.)*
 
