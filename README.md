@@ -43,7 +43,8 @@ The dashboard provides quick insights into:
 
 
 
-> *(Open the Excel file in this repository to explore the full interactive dashboard.)*
+📂 **Open the full dashboard:** [Student performance analysis.xlsx](Student%20performance%20analysis.xlsx)
+
 
 💡 Key Insights
 - Students with **higher study time** tend to perform better on average.  
