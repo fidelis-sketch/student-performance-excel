@@ -43,7 +43,8 @@ The dashboard provides quick insights into:
 
 
 
-📂 **Open the full dashboard:** [Student performance analysis.xlsx](<Student Performance Analysis.xlsx>)
+📂 **Open the full dashboard:** [Student performance analysis.xlsx](<Student Performance Analysis/Student performance analysis.xlsx>)
+
 
 
 💡 Key Insights
